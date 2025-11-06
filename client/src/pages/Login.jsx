@@ -122,7 +122,7 @@ const Login = () => {
               sx={{
                 mb: 3,
                 "& .MuiTabs-indicator": {
-                  backgroundColor: "#6366f1",
+                  backgroundColor: "#466cf2ff",
                   height: 3,
                 },
               }}

@@ -92,7 +92,7 @@ const Calendar = () => {
           gutterBottom
           fontWeight="bold"
           sx={{
-            background: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+            background: "linear-gradient(135deg,  #466cf2ff 0%, #09d2f1ff 100%)",
             backgroundClip: "text",
             WebkitBackgroundClip: "text",
             color: "transparent",

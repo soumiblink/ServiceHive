@@ -108,7 +108,7 @@ const Marketplace = () => {
             gutterBottom
             fontWeight="bold"
             sx={{
-              background: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+              background: "linear-gradient(135deg, #466cf2ff 0%, #09d2f1ff 100%)",
               backgroundClip: "text",
               WebkitBackgroundClip: "text",
               color: "transparent",
@@ -241,12 +241,12 @@ const Marketplace = () => {
                           py: 1.5,
                           borderRadius: 2,
                           background:
-                            "linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%)",
+                            "linear-gradient(135deg,  #466cf2ff 0%, #09d2f1ff 100%)",
                           fontWeight: 600,
                           fontSize: "1rem",
                           "&:hover": {
                             background:
-                              "linear-gradient(135deg, #5a5fd8 0%, #7c51e0 100%)",
+                              "linear-gradient(135deg,  #466cf2ff 0%, #09d2f1ff 100%)",
                             transform: "translateY(-1px)",
                             boxShadow: "0 8px 20px rgba(99, 102, 241, 0.3)",
                           },
@@ -405,7 +405,7 @@ const Marketplace = () => {
               }
               sx={{
                 fontWeight: 600,
-                background: "linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%)",
+                background: "linear-gradient(135deg,  #466cf2ff 0%, #09d2f1ff 100%)",
                 "&:hover": {
                   background:
                     "linear-gradient(135deg, #5a5fd8 0%, #7c51e0 100%)",
