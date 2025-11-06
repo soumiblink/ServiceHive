@@ -5,13 +5,7 @@ Built with **Node.js, Express, MongoDB**, and **React (Vite)** — designed for 
 
 ---
 
-## 🚀 Live Demo
 
-🌐 **Frontend:** [https://service-hive-six.vercel.app](https://service-hive-six.vercel.app)  
-📘 **Postman Docs:** [View Full API Documentation](https://documenter.getpostman.com/view/29319175/2sB3WpQ1Ju)  
-💻 **GitHub Repository:** [Imran00852/ServiceHive](https://github.com/Imran00852/ServiceHive)
-
----
 
 ## 🧠 Tech Stack
 
@@ -54,7 +48,7 @@ ServiceHive/
 #### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Imran00852/ServiceHive.git
+git clone https://github.com/soumiblink/ServiceHive.git
 cd ServiceHive
 ```
 
@@ -168,23 +162,5 @@ docker compose down
 
 ---
 
-## 🧪 API Testing
 
-You can explore and test all APIs directly using this Postman collection:  
-👉 [Postman Documentation](https://documenter.getpostman.com/view/29319175/2sB3WpQ1Ju)
 
-Each route is grouped by module (Users, Events, Swap Requests) and ready to test with example payloads.
-
----
-
----
-
-## 🧑‍💻 Author
-
-**Imran Bhat**  
-💼 Full Stack Developer (MERN)  
-📍 [GitHub](https://github.com/Imran00852)
-
----
-
-> _Built with ❤️ by Imran Bhat._
